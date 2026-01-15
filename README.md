@@ -183,3 +183,9 @@ en_UK Style Guide অনুযায়ী টোন হবে **সাহায্
 
 ### কন্ট্রিবিউশন গাইডলাইন
 এই স্টাইল গাইডটি প্রতিনিয়ত পরিমার্জিত হবে। কোনো নির্দিষ্ট শব্দের অনুবাদ নিয়ে বিতর্ক থাকলে গিটহাব ইস্যুর মাধ্যমে আলোচনা করুন।
+
+---
+### সহায়ক রিসোর্স
+* [উইকিপিডিয়া বাংলা বানানরীতি](https://bn.wikipedia.org/wiki/উইকিপিডিয়া:বাংলা_বানানের_নিয়ম)
+* [en_UK Style Guide - WordPress](https://make.wordpress.org/polyglots/handbook/translator-resources/english-uk-style-guide/)
+* [https://www.slideshare.net/slideshow/translating-wordpress-in-bengali-bengali-presentation](বাংলায় ওয়ার্ডপ্রেস অনুবাদ - মঈনুল ইসলাম)
