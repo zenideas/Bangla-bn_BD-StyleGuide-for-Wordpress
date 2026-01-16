@@ -116,18 +116,18 @@ en_UK Style Guide অনুযায়ী টোন হবে **সাহায্
 | category | বিষয়শ্রেণি/শ্রেণিবিভাগ |  |
 | changeset | চেঞ্জসেট |  |
 | collection | সংগ্রহ/সংকলন |  |
-| comment | কমেন্ট |  |
+| comment | কমেন্ট | মন্তব্যও ব্যবহার করতে পারেন তবে একটিই |
 | control | নিয়ন্ত্রণ |  |
 | convert | রূপান্তর |  |
 | count | গণনা/সংখ্যা |  |
 | custom | নিজস্ব |  |
-| customizer | কাস্টোমাইজার |  |
+| customizer | কাস্টমাইজার | খামোখা বাড়তি ো-কার ব্যবহার করবো না |
 | deactivate | নিষ্ক্রিয় |  |
 | default | পূর্বনির্ধারিত/ডিফল্ট |  |
 | disable | নিষ্ক্রিয় |  |
 | Distraction free mode | বিঘ্নতামুক্ত মোড |  |
-| Distraction-free writing | বিঘ্নতামুক্ত লেখালেখি | সাবলিল লিখন পদ্ধতি |
-| documentation | নথি, নির্দেশিকা, ডকুমেন্টেশন |  |
+| Distraction-free writing | বিঘ্নতামুক্ত লেখালেখি | সাবলীল লিখন পদ্ধতি |
+| documentation | নথি, নির্দেশিকা, ডকুমেন্টেশন | একাধিক রাখা ঠিক হবে না, যেকোনো একটি পুরো প্রজেক্টে ব্যবহৃত হবে |
 | draft | খসড়া |  |
 | Drag and drop | ড্র্যাগ-এন-ড্রপ করুন/টেনে আনুন এবং ছেড়ে দিন |  |
 | edit | এডিট/সম্পাদনা |  |
@@ -144,7 +144,7 @@ en_UK Style Guide অনুযায়ী টোন হবে **সাহায্
 | format | ফরম্যাট |  |
 | genre | জনরা | এটি সাধারণত ধারা ইত্যাদি বোঝায় যেমন গানের জনরা |
 | guide | গাইড/নির্দেশিকা |  |
-| heading | শিরোনামা | এটা কেবলই লেখার ফন্টের আকারের ক্ষেত্রে/ পাতার হেডিং |
+| heading | শিরোনাম/শিরোনামা | এটা কেবলই লেখার ফন্টের আকারের ক্ষেত্রে/ পাতার হেডিং |
 | horizontal | অনুভূমিক |  |
 | identifier | পরিচায়ক |  |
 | import | আমদানি/ইমপোর্ট |  |
@@ -155,7 +155,7 @@ en_UK Style Guide অনুযায়ী টোন হবে **সাহায্
 | instance | ইনস্ট্যান্স/দৃষ্টান্ত |  |
 | invalid | সঠিক নয়/অবৈধ |  |
 | invoice | চালান |  |
-| link | লিংক/সংযোগ/লিঙ্ক | কোনটি ভালো হয় সেটি সবখানে ব্যবহার করবেন |
+| link | লিঙ্ক/সংযোগ | কোনটি ভালো হয় সেটি সবখানে ব্যবহার করবেন |
 | list | তালিকা/লিস্ট |  |
 | location | অবস্থান |  |
 | version | ভার্শন |  |
@@ -184,7 +184,7 @@ en_UK Style Guide অনুযায়ী টোন হবে **সাহায্
 | `&#8217;` | Right Single Quote | বাঁকানো ডান একক উদ্ধৃতি চিহ্ন/অ্যাপোস্ট্রফি (’) | অ্যাপোস্ট্রফি হিসেবে (যেমন: It’s, User’s)। এটি এককভাবে থাকলে বাংলায় অনুবাদে সাধারণত দরকার হবে না। যদি না বাংলায় ইলোপ চিহ্ন (যেমন: ৯০’র দশক) হিসেবে একে ব্যবহার করেন।|
 | `&#8220;` | Left Double Quote | বাঁকানো বাম ডাবল উদ্ধৃতি চিহ্ন (“) ||
 | `&#8221;` | Right Double Quote | বাঁকানো ডান ডাবল উদ্ধৃতি চিহ্ন (”) ||
-| `&#8230;` | Ellipsis | তিনটি বিন্দু বা ইলিপসিস (…) ||
+| `&#8230;`/`&hellip;` | Ellipsis | তিনটি বিন্দু বা ইলিপসিস (…) ||
 | `&copy;` | Copyright | কপিরাইট (©) চিহ্ন ||
 | `&reg;` | Registered | রেজিস্টার্ড (®) চিহ্ন ||
 | `&trade;` | Trademark | ট্রেডমার্ক (™) চিহ্ন ||
@@ -199,6 +199,6 @@ en_UK Style Guide অনুযায়ী টোন হবে **সাহায্
 ### সহায়ক রিসোর্স
 * [গ্লোসারির মূল ফাইল যেখানে সম্পাদনা করা হচ্ছে](https://docs.google.com/spreadsheets/d/1TCJb6zCMWub4r07Xooxvr9-K0-Z8ap-YAWbQIyut7NE/edit?usp=sharing)
 * [উইকিপিডিয়া বাংলা বানানরীতি](https://bn.wikipedia.org/wiki/উইকিপিডিয়া:বাংলা_বানানের_নিয়ম)
-* [en_UK Style Guide - WordPress](https://make.wordpress.org/polyglots/handbook/translator-resources/english-uk-style-guide/)
+* [en_GB Style Guide - WordPress](https://make.wordpress.org/polyglots/handbook/translator-resources/english-uk-style-guide/)
 * [বাংলায় ওয়ার্ডপ্রেস অনুবাদ - মঈনুল ইসলাম](https://www.slideshare.net/slideshow/translating-wordpress-in-bengali-bengali-presentation)
 * [আমার লোকালাইজেশন প্লেলিস্ট যেখানে বিভিন্ন বিষয়ের উপর বিস্তারিত আলোকপাত করা হয়েছে](https://www.youtube.com/playlist?list=PLytG0k-bbMnhn9XkrJ5Clnf4g55AXmluX)
